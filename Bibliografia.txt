@@ -1,0 +1,6 @@
+Bibliografia:
+
+
+ - "28 comandos úteis de Pandas que talvez você não conheça", Paulo Vasconcellos
+<https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93>
+Acessado em 12 de Outubro de 2018
